@@ -1,0 +1,418 @@
+We should have Categories of products: Plumbing,Cement,Rod,Tanks,Tools.
+Plumbing Sub menu
+
+Niger Pipe
+4"(110mm) - 6200
+3"(75mm) - 3000
+3/4"(25mm) - 6200
+1"(32mm) - 6200
+1/2"(20mm) - 4000
+1 1/2"(50mm) - 4000
+
+Pressure Niger Pipe
+1 1/2"(50mm) - 7000
+
+
+Normal Pipe
+4"(110mm) - 3000
+3"(75mm) - 2500
+3/4"(25mm) - 2500
+1"(32mm) - 2500
+1/2"(20mm) - 2500
+1 1/2"(50mm) - 2500
+
+Pressure Normal Pipe
+1 1/2"(50mm) - 9000
+
+Yellow Line Pipe
+4"(110mm) - 3000
+3"(75mm) - 3500
+3/4"(25mm) - 3000
+1"(32mm) - 3000
+1 1/2"(50mm) - 3500
+
+Yellow Tap
+1/2"(20mm) - 1000
+
+Pressure Pipe
+4"(110mm) - 9000
+
+Blue Pipe
+6"(160mm) - 7000
+4"(110mm) - 5500
+3"(75mm) - 3500
+
+Elbow White
+4"(110mm) - 1000
+6"(160mm) - 3000
+3"(75mm) - 600
+3/4"(25mm) - 400
+1"(32mm) - 500
+1/2"(20mm) - 300
+1 1/2"(50mm) - 400
+1 1/4"(40mm) - 600
+
+Elbow Ash
+4"(110mm) - 600
+6"(160mm) - 2000
+3"(75mm) - 400
+3/4"(25mm) - 300
+1"(32mm) - 400
+1/2"(20mm) - 200
+1 1/2"(50mm) - 300
+
+by 1" Elbow
+1 1/4"(40mm) - 700
+
+Elbow
+1 1/4"(40mm) - 600
+2"(63mm) - 2000
+
+Vent Tiger
+4"(110mm) - 700
+3"(75mm) - 500
+1 1/2"(50mm) - 500
+
+Vent Ordinary
+4"(110mm) - 400
+
+Nail Clip
+4"(110mm) - 500
+3"(75mm) - 300
+3/4"(25mm) - 300
+1"(32mm) - 300
+1 1/2"(50mm) - 500
+
+By 2" Tee
+4"(110mm) - 1200
+6"(160mm) - 600
+3"(75mm) - 400
+
+Tee Pressure
+1 1/4"(40mm) - 1200
+
+Tee Waste
+1 1/4"(40mm) - 700
+
+By 2" cap plug blade
+4"(110mm) - 1000
+
+3 Way Tee
+4"(110mm) - 2000
+
+By 45" Elbow
+4"(110mm) - 1500
+3"(75mm) - 700
+
+By Y Tee
+4"(110mm) - 2000
+3"(75mm) - 800
+
+Cross Tee white
+4"(110mm) - 2000
+
+Tee white
+4"(110mm) - 1500
+6"(160mm) - 5500
+3"(75mm) - 700
+3/4"(25mm) - 400
+1"(32mm) - 500
+1/2"(20mm) - 300
+1 1/2"(50mm) - 500
+1 1/4"(40mm) - 500
+
+Tee Ash
+4"(110mm) - 700
+6"(160mm) - 2500
+3"(75mm) - 500
+3/4"(25mm) - 300
+1"(32mm) - 400
+1/2"(20mm) - 200
+1 1/2"(50mm) - 400
+
+Concrete Nail
+4"(110mm) - 1500
+1"(32mm) - 800
+
+by 2" Socket
+4"(110mm) - 1500
+3"(75mm) - 600
+
+by 3" Socket
+4"(110mm) - 1200
+
+by 1" Socket
+1 1/4"(40mm) - 600
+
+by 1 1/2" Socket
+2"(63mm) - 2000
+
+Plugcap Blade Waste
+4"(110mm) - 500
+6"(160mm) - 1000
+3"(75mm) - 500
+3/4"(25mm) - 300
+1"(32mm) - 300
+1 1/2"(50mm) - 200
+1 1/4"(40mm) - 400
+
+Ash Pipe
+6"(160mm) - 7000
+
+Tuk Tap
+3/4"(25mm) - 8000
+1/2"(20mm) - 5000
+
+Tuk Stop Cork
+3/4"(25mm) - 8000
+1/2"(20mm) - 5000
+
+Venus Tap Blue Head
+3/4"(25mm) - 3500
+1/2"(20mm) - 2500
+
+Boreguage Blue Head
+3/4"(25mm) - 700
+1/2"(20mm) - 600
+1 1/2"(50mm) - 2500
+2"(63mm) - 3500
+
+Boreguage White Head
+3/4"(25mm) - 800
+1"(32mm) - 1000
+1/2"(20mm) - 500
+
+Boreguage Red Head
+1 1/4"(40mm) - 2000
+2"(63mm) - 3000
+
+Mlf Socket
+3/4"(25mm) - 300
+1"(32mm) - 800
+1 1/2"(50mm) - 600
+1 1/4"(40mm) - 600
+2"(63mm) - 2000
+
+Ordinary magic waste
+1/2"(20mm) - 1000
+1 1/4"(40mm) - 1000
+
+Magic waste
+1 1/2"(50mm) - 1500
+
+Curly waste
+1 1/4"(40mm) - 500
+
+Backnut Ash
+1 1/4"(40mm) - 1500
+2"(63mm) - 3000
+
+Capplug pressure
+1 1/4"(40mm) - 500
+
+by 2" Reducer
+1 1/4"(40mm) - 700
+
+Adapter
+3/4"(25mm) - 300
+1"(32mm) - 400
+1/2"(20mm) - 200
+1 1/2"(50mm) - 500
+1 1/4"(40mm) - 400
+2"(63mm) - 2000
+
+White Adapter
+1 1/4"(40mm) - 700
+
+By 1/2 Elbow Ash
+3/4"(25mm) - 300
+
+PVC Tap
+3/4"(25mm) - 700
+1/2"(20mm) - 600
+
+PPR Tap
+3/4"(25mm) - 1000
+1/2"(20mm) - 1000
+
+Plain Socket
+3/4"(25mm) - 300
+1"(32mm) - 300
+1/2"(20mm) - 200
+1 1/2"(50mm) - 600
+1 1/4"(40mm) - 600
+2"(63mm) - 2000
+
+China Tap White Iron
+3/4"(25mm) - 1200
+1/2"(20mm) - 1500
+
+By 1/2 Reducer
+3/4"(25mm) - 300
+1 1/4"(40mm) - 600
+
+By 1/2 Tee Ash
+3/4"(25mm) - 300
+
+Mlf Elbow
+3/4"(25mm) - 300
+1"(32mm) - 400
+1/2"(20mm) - 200
+
+By 1/2 Mlf Elbow
+3/4"(25mm) - 300
+
+By 1/2 Mlf Socket
+3/4"(25mm) - 300
+1"(32mm) - 800
+
+By Threaded Socket
+3/4"(25mm) - 300
+
+Hose
+3/4"(25mm) - 24000
+1"(32mm) - 30000
+
+Venus Shower Pole
+3/4"(25mm) - 4000
+1/2"(20mm) - 4000
+
+Galvanizer Pipe
+3/4"(25mm) - 5000
+1/2"(20mm) - 4500
+
+Bs 10/10 Stop Cork
+3/4"(25mm) - 1500
+1/2"(20mm) - 1500
+
+Lesso Tap
+3/4"(25mm) - 600
+1/2"(20mm) - 600
+
+Angle Valve
+3/4"(25mm) - 800
+1/2"(20mm) - 600
+
+Union Ash
+1"(32mm) - 600
+
+Union
+3/4"(25mm) - 300
+1/2"(20mm) - 500
+1 1/2"(50mm) - 2500
+1 1/4"(40mm) - 1500
+2"(63mm) - 3000
+
+Tools
+Water Filter - 9000
+Basin tap short iron heavy guage - 3000
+Cobra PVC tap - 3500
+Basin tap long(PVC) - 3500
+Silicon gum Abro(2000) -5500
+Original Flushing handle blue - 2500
+Original Flushing handle Red- 2000
+Cone rubber - 500
+Small PVC shower rose - 500
+Original shovel - 7000
+Original block industrialshovel - 7000
+Black stone ordinary shovel - 6000
+Block industry ordinary shovel - 6500
+Cutlass - 3500
+Net Roll -1500
+Digger - 6000
+Big Square - 1500
+Small square - 1000
+Head pan - 7000
+Cutting stone -1500
+100 meter Tape - 1000
+50 meter - 500
+Carpenter saw - 1500
+Yama Original
+G.man saw blade
+30 meter tape robber
+30 meter tape fiber
+50 meter tape fiber
+Measuring tape 12 fit - 1500
+Measuring tape 16 fit - 2000
+Measuring tape 25 fit - 2500
+Filling Stone - 2000
+Welder glass - 1500
+Shinning Trowel - 2000
+Flash Band
+Handle key small
+Big Ordinary Handle key
+Paint Roller
+Trowel size 10 - 2000
+Trowel size 9 - 2000
+Original fill - 2500
+Small Carpenter Hammer
+Big Carpenter Hammer
+Punch Original
+Wall Bracket
+Alarm Key - 6000
+Water Heater -77,000
+Twy Ford WC - 40,000
+Close Couple WC
+Pedestral - 10,000
+Washing hand basin big - 13,000
+WC squard - 15,000
+Unilary Vesie - 15,000
+Washing hand basin medium - 10,000
+Kitchen Sink lay - 40,000
+Bath - 35,000
+Golden stop cork original
+Ordinary Flexible connector - 700
+Bromix angle valve - 1200
+Venus thread tape small - 300
+Choice thread tape big - 700
+Choice angle valve - 2500
+Venus angle valve - 2000
+Ordinary thread tape big - 280
+Venus thread tape big - 500
+Ordinary thread tape small - 200
+Candle filter white - 1500
+Candle filter Black - 1200
+Floor master top flush - 7000
+Floor master size flush - 8000
+Bore Valve - 2500
+Small shower rose iron - 1000
+Stainless shower rose - 3500
+Mercedes shower rose - 1500
+Big putty - 700
+Small Putty - 500
+Telephone shower - 3500
+Choice pan connector - 5500
+Venus pan connector - 3500
+Shower mixer heavy gauge
+Choice basin mixer
+Basin tap short - 2500
+Smallest kitchen sink - 9000
+Small kitchen sink - 10000
+Bath mixer - 18,000
+Troy Ford side Flush - 40,000
+Golden diamond WC
+Toliet Cover
+Smallest washing hand basin - 7000
+Wheel biro bolt - 500
+Big shower rose Pvc - 600
+medium Handle key - 12000
+Flushing rubber - 500
+Sitter Curly WC - 30,000
+WC ninto complete set - 51000
+Complete mixer promax - 33000
+Anus wash - 5000
+Blue pan connector -4500
+Binding wire - 35000
+Long neck tap ordinary - 4000
+Cross angle valve - 1000
+Lesso basin tap - 1300
+Big basin tap - 2500
+D/D Sink short - 35000
+Black flexible iron - 1500
+mixer flexible - 2500
+Biggest Funnel- 6000
+Smallest Funnel - 3000
+Medium Funnel - 4000
+Small Funnel- 3500
+Black nylon big - 40000
+Black nylon small - 20000
